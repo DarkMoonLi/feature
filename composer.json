@@ -1,0 +1,19 @@
+{
+    "name": "maxim/feature",
+    "description": "Тестовое задание для компании 'Фьюче' по разработке RestAPI",
+    "autoload": {
+        "psr-4": {
+            "Maxim\\Feature\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DarkMoonLi",
+            "email": "masya.prozorov@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
